@@ -4,9 +4,6 @@ import mapTexture from './assets/map.jpg';
 import carTexture from './assets/car.png';
 
 
-window.Phaser = Phaser;
-
-
 export class Scene extends Phaser.Scene {
 
   CAR_X = 800;
